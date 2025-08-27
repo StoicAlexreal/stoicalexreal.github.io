@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Ich studiere Informatik an der Universität Ulm und plane Ende Juli 2026 abzuschließen. Meine Freizeit verbringe ich mit dem Programmieren von Spielen in Java, dem Modifizieren von Spielen in Java, Eigenrecherche zur Algorithmik und Anwendung dieser in Eigenprojekten von mir. Ich lerne aktuell mehr über Algorithmen und Datenstrukturen, Stochastik und Statistik, Berechenbarkeit und Komplexität, sowie Logik.
+Ich studiere Informatik an der Universität Ulm und plane Ende Juli 2026 abzuschließen. Meine Freizeit verbringe ich mit dem Programmieren von Spielen in Java, dem Modifizieren von Spielen in Java, Eigenrecherche zur Algorithmik und Anwendung dieser in Eigenprojekten. Ich vertiefe mich in Algorithmen und Datenstrukturen, Stochastik und Statistik, Berechenbarkeit und Komplexität, sowie Logik.
 
  You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and Markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
 
