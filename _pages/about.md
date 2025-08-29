@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Ich studiere Informatik an der Universität Ulm und plane Ende Juli 2026 abzuschließen. Darüber hinaus plane ich mich im Bereich der theoretischen Informatik zu spezialisieren, speziell der Algorithmik. Meine Freizeit widme ich der Programmierung von Spielen in Java, der Modifizierung von Minecraft Datapacks, und der Eigenrecherche zur Algorithmik und Anwendung dieser in Eigenprojekten. Ich vertiefe mich aktuell in Algorithmen und Datenstrukturen, Stochastik und Statistik, Berechenbarkeit und Komplexität, sowie Logik.
+Ich studiere Informatik an der Universität Ulm und plane Ende Juli 2026 abzuschließen. Darüber hinaus plane ich mich im Bereich der theoretischen Informatik zu spezialisieren, speziell der Algorithmik. Meine Freizeit widme ich der Programmierung von Spielen in Java, der Modifizierung von Minecraft Datapacks, und der Eigenrecherche zur Algorithmik und Anwendung dieser in Eigenprojekten. Ich vertiefe mich aktuell in Algorithmen und Datenstrukturen, Stochastik und Statistik, und der Kombinatorik.
 
 
 Kurse
@@ -35,6 +35,7 @@ Programmiersprachkenntnisse
 ======
 <ul>
   <li>Java</li>
+  <li>MATLAB</li>
   <li>C# Unity</li>
   <li>Haskell</li>
   <li>RISC-V Assembler</li>
