@@ -22,7 +22,7 @@ repository               : "https://stoicalexreal.github.io/"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profilepic.png"
+  avatar           : "profilepic.JPG"
   name             : "Alexander König"
   pronouns         : # example: "he/him"  
   bio              : "Informatik-Student der Universität Ulm"
