@@ -9,10 +9,7 @@
 
 main:
   - title: "Publications"
-    url: /publications/   
-
-  - title: "Teaching"
-    url: /teaching/    
+    url: /publications/     
     
   - title: "Portfolio"
     url: /portfolio/
@@ -26,5 +23,3 @@ main:
   # - title: "CV"
   #   url: /cv-json/
     
-  - title: "Guide"
-    url: /markdown/
