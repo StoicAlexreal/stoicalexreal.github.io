@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # Currently available options are "default", "air"
-title                    : "Meine Website"
+title                    : "Portfolio Alexander König"
 title_separator          : "-"
 name                     : &name "Alexander König"
 description              : &description "personal description"
