@@ -1,16 +1,16 @@
 ---
 permalink: /
-title: "Über mich"
+title: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-Ich studiere Informatik an der Universität Ulm und werde mein Studium voraussichtlich im August 2027 abschließen. Fachlich interessiere ich mich besonders für die theoretische Informatik. Mich begeistert die Frage, wie sich komplizierte Probleme durch geeignete algorithmische Ansätze effizient lösen lassen.
+I am a Computer Science student at Ulm University, Germany, expecting to graduate in August 2027. My primary academic interest lies in theoretical computer science, particularly in understanding how complex problems can be solved efficiently through carefully designed algorithms.
 
-Aktuell vertiefe ich meine Kenntnisse in Algorithmen und Datenstrukturen, algorithmischer Spieltheorie, kompetitiver Programmierung, Datenkompression sowie in der Entwicklung und Analyse von Algorithmen zur Lösung schwieriger Probleme.
+I am currently deepening my knowledge of algorithms and data structures, algorithmic game theory, competitive programming, data compression, and the design and analysis of algorithms for tackling computationally challenging problems.
 
-Neben meinem Studium beschäftige ich mich mit der Entwicklung von Spielen in Java und Unity, modifiziere Minecraft-Datapacks und arbeite selbstständig an eigenen Programmierprojekten. Dabei interessiert mich sowohl das theoretische Verständnis komplexer Probleme als auch die praktische Umsetzung kreativer und algorithmischer Ideen.
+Beyond my studies, I enjoy developing games in Java and Unity, creating Minecraft datapack modifications, and working on independent programming projects. I am particularly interested in bridging theoretical insights with practical applications, combining a rigorous understanding of complex problems with the creative implementation of algorithmic ideas.
 
 
