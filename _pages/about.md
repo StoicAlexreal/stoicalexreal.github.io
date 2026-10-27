@@ -13,4 +13,4 @@ I am currently deepening my knowledge of algorithms and data structures, algorit
 
 Beyond my studies, I enjoy developing games in Java and Unity, creating Minecraft datapack modifications, and working on independent programming projects. I am particularly interested in bridging theoretical insights with practical applications, combining a rigorous understanding of complex problems with the creative implementation of algorithmic ideas.
 
-If you're interested in seeing what I have built, [feel free to visit my portfolio](https://stoicalex.github.io/portfolio)
+If you're interested in seeing what I have built, [feel free to visit my portfolio](https://stoicalexreal.github.io/portfolio)
