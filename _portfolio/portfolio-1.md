@@ -1,6 +1,6 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Pomomonfarm"
+excerpt: "Pomomon Farm is a small farming and productivity game that helps players with their work. It is especially suitable for people who want to improve their focus and, at the same time, structure their concentration periods through playful motivation with small rewards.<br/><img src='/images/500x300.png'>"
 collection: portfolio
 ---
 
